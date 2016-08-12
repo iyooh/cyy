@@ -16,6 +16,4 @@ Thumbs.db
 *.swo
 *.pyc
 *.pyo
-node_modules
-dist
 *.log
